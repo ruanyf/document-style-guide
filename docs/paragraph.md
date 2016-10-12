@@ -23,7 +23,7 @@ One man’s constant is another man’s variable. — Alan Perlis
 本文转载自 WikiQuote
 ```
 
-使用外部图片时，必须在文末标明来源。
+使用外部图片时，必须在图片下方或文末标明来源。
 
 ```
 本文部分图片来自 Wikipedia
