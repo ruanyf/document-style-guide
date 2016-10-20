@@ -12,4 +12,4 @@
 
 ## License
 
-MIT
+Public domain
