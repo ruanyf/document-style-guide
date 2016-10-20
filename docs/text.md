@@ -117,9 +117,9 @@
 英文原文如果使用了复数形式，翻译成中文时，应该将其还原为单数形式。
 
 ```
-⋯information stored in random access memory (RAMs)⋯
+英文：⋯information stored in random access memory (RAMs)⋯
 
-应译为“……存储在随机存取存储器（RAM）里的信息……”。
+中文：……存储在随机存取存储器（RAM）里的信息……
 ```
 
 外文缩写可以使用半角圆点(`.`)表示缩写。
@@ -132,17 +132,17 @@ Apple, Inc.
 表示中文时，英文省略号（`⋯`）应改为中文省略号（`……`）。
 
 ```
-5 minutes later⋯.
+英文：5 minutes later⋯
 
-应译为“5 分钟过去了⋯⋯”
+中文：5 分钟过去了⋯⋯
 ```
 
 英文书名或电影名改用中文表达时，双引号应改为书名号。
 
 ```
-He published an article entitled "The Future of the Aviation"
+英文：He published an article entitled "The Future of the Aviation".
 
-应译为“他发表了一篇名为《航空业的未来》的文章”
+中文：他发表了一篇名为《航空业的未来》的文章。
 ```
 
 第一次出现英文词汇时，在括号中给出中文标注。此后再次出现时，直接使用英文缩写即可。
@@ -156,6 +156,6 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 ```
 “American Association of Physicists in Medicine”（美国医学物理学家协会）是专有名词，需要大写。
 
-“online transaction processing”（在线事务处理）不是专有名词，则不应大写。
+“online transaction processing”（在线事务处理）不是专有名词，不应大写。
 ```
 
