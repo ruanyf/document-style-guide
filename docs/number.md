@@ -71,6 +71,6 @@ $1,000
 
 ## 链接
 
-- [目录](README.md)
+- [目录](../README.md)
 - 上一节：[段落](paragraph.md)
 - 下一节：[标点符号](marks.md)

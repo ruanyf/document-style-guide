@@ -31,6 +31,6 @@ One man’s constant is another man’s variable. — Alan Perlis
 
 ## 链接
 
-- [目录](README.md)
+- [目录](../README.md)
 - 上一节：[文本](text.md)
 - 下一节：[数值](number.md)

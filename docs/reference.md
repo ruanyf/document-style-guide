@@ -11,5 +11,5 @@
 
 ## 链接
 
-- [目录](README.md)
+- [目录](../README.md)
 - 上一节：[章节结构](structure.md)

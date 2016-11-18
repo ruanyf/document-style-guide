@@ -161,6 +161,6 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 
 ## 链接
 
-- [目录](README.md)
+- [目录](../README.md)
 - 上一节：[标题](title.md)
 - 下一节：[段落](paragraph.md)
