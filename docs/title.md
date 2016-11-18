@@ -18,6 +18,6 @@
 
 ## 链接
 
-- [目录](README.md)
-- 下一节：[文本](docs/text.md)
+- [目录](../README.md)
+- 下一节：[文本](text.md)
 

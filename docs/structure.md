@@ -26,5 +26,5 @@
 ## 链接
 
 - [目录](README.md)
-- 上一节：[标点符号](docs/marks.md)
-- 下一节：[参考链接](docs/reference.md)
+- 上一节：[标点符号](marks.md)
+- 下一节：[参考链接](reference.md)

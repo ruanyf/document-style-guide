@@ -142,5 +142,5 @@
 ## 链接
 
 - [目录](README.md)
-- 上一节：[数值](docs/number.md)
-- 下一节：[章节结构](docs/structure.md)
+- 上一节：[数值](number.md)
+- 下一节：[章节结构](structure.md)

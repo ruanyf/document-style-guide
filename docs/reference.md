@@ -12,4 +12,4 @@
 ## 链接
 
 - [目录](README.md)
-- 上一节：[章节结构](docs/structure.md)
+- 上一节：[章节结构](structure.md)
