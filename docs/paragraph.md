@@ -28,3 +28,9 @@ One man’s constant is another man’s variable. — Alan Perlis
 ```
 本文部分图片来自 Wikipedia
 ```
+
+## 链接
+
+- [目录](README.md)
+- 上一节：[文本](docs/text.md)
+- 下一节：[数值](docs/number.md)
