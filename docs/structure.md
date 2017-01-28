@@ -38,10 +38,12 @@
 文件名必须使用小写字母，不得使用大写字母。
 
 ```
-错误：ChangeLog.md
+错误：TroubleShooting.md
 
-正确：changelog.md 
+正确：troubleshooting.md 
 ```
+
+文档仓库的某些说明文件，为了醒目，可以使用大写的文件名，比如`README`、`LICENSE`。
 
 文件名包含多个单词时，单词之间建议使用半角的连词线（`-`）分隔。
 
