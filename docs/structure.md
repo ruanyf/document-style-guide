@@ -27,7 +27,9 @@
 
 ## 文件名
 
-软件手册的文件名，必须使用半角字符，不得使用全角字符。这也意味着，中文不能用于文件名。
+文档的文件名不得含有空格。
+
+文件名必须使用半角字符，不得使用全角字符。这也意味着，中文不能用于文件名。
 
 ```
 错误： 名词解释.md
@@ -35,7 +37,7 @@
 正确： glossary.md
 ```
 
-文件名必须使用小写字母，不得使用大写字母。
+文件名建议只使用小写字母，不使用大写字母（参见[这里](http://unix.stackexchange.com/questions/239295/is-it-considered-a-best-practice-to-not-use-capital-letters-in-file-naming)和[这里](http://softwareengineering.stackexchange.com/questions/186313/lowercase-in-linux-file-names)）。
 
 ```
 错误：TroubleShooting.md
