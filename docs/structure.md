@@ -37,7 +37,7 @@
 正确： glossary.md
 ```
 
-文件名建议只使用小写字母，不使用大写字母（参见[这里](http://unix.stackexchange.com/questions/239295/is-it-considered-a-best-practice-to-not-use-capital-letters-in-file-naming)和[这里](http://softwareengineering.stackexchange.com/questions/186313/lowercase-in-linux-file-names)）。
+文件名建议只使用小写字母，不使用大写字母。
 
 ```
 错误：TroubleShooting.md
