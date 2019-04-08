@@ -157,7 +157,7 @@ Apple, Inc.
 ```
 英文：5 minutes later⋯
 
-中文：5 分钟过去了⋯⋯
+中文：5 分钟过去了……
 ```
 
 （4）英文书名或电影名改用中文表达时，双引号应改为书名号。
@@ -181,4 +181,3 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 
 “online transaction processing”（在线事务处理）不是专有名词，不应大写。
 ```
-
