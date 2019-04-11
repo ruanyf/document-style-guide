@@ -1,7 +1,7 @@
 # 参考链接
 
 - [产品手册中文写作规范](http://wenku.baidu.com/view/23cc1a6527d3240c8447efbf.html), by 华为
-- [写作规范和格式规范](http://docs.daocloud.io/write-docs/format), by DaoCloud
+- [写作规范和格式规范](http://guide.daocloud.io/dcs/%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E5%92%8C%E6%A0%BC%E5%BC%8F%E8%A7%84%E8%8C%83-9153803.html), by DaoCloud
 - [技术写作技巧在日汉翻译中的应用](http://www.hitachi-tc.co.jp/company/thesis/thesis.pdf), by 刘方
 - [简体中文规范指南](https://www.lengoo.de/documents/styleguides/lengoo_styleguide_ZH.pdf), by lengoo
 - [文档风格指南](https://open.leancloud.cn/copywriting-style-guide.html), by LeanCloud
