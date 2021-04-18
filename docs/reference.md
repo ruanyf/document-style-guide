@@ -11,5 +11,4 @@
 - [为什么文件名要小写？](http://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html), by 阮一峰
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/), by Google
 - [出版物上数字用法的规定（国家标准GBT15835－2011）](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091154536.pdf)
-- [中华人民共和国国家标准出版物数字用法](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%87%BA%E7%89%88%E7%89%A9%E6%95%B0%E5%AD%97%E7%94%A8%E6%B3%95)
 - [GB 3100-1993 国际单位制及其应用](https://zh.wikisource.org/zh-hans/GB_3100-1993_%E5%9B%BD%E9%99%85%E5%8D%95%E4%BD%8D%E5%88%B6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8)
