@@ -8,7 +8,8 @@
 1. [数值](docs/number.md)
 1. [标点符号](docs/marks.md)
 1. [文档体系](docs/structure.md)
-1. [参考链接](docs/reference.md)
+1. [参考链接](docs/referenceLink.md)
+1. [参考书籍](docs/referenceBooks.md)
 
 ## License
 
