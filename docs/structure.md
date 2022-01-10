@@ -42,7 +42,7 @@
 ```
 错误：TroubleShooting.md
 
-正确：troubleshooting.md 
+正确：troubleshooting.md
 ```
 
 为了醒目，某些说明文件的文件名，可以使用大写字母，比如`README`、`LICENSE`。
